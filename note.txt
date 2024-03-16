@@ -1,1 +1,2 @@
-content note 1 edit in google chorme
+content note 1 edit in git bash
+
